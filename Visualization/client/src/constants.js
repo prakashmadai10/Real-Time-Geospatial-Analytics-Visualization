@@ -1,7 +1,7 @@
 
 
 // MAP CONSTANTS
-export const MAPBOX_TOKEN = "pk.eyJ1IjoicGNpdHl6ZW4xNzE3IiwiYSI6ImNsb2Y1MmFlYzBpNGEyaW1wODdhZXBsY2QifQ.HnV8jPLHdFCNMwBg6890aw";
+export const MAPBOX_TOKEN = "pk.eyJ1IjoicGNpdHl6ZW4xNzE3IiwiYSI6";
 
 
 export const startingViewPort = {
