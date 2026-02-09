@@ -45,7 +45,7 @@ The following diagram illustrates the complete data flow and system components u
 ## 🔄 System Workflow
 
 1. **Data Ingestion**
-
+   * API Documentation: https://api-v3.mbta.com/docs/swagger/index.html
    * Live vehicle data extracted from the MBTA API
    * Data published to Kafka topics by producers
 
