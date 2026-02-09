@@ -2,8 +2,6 @@
 
 # 🚍 Real-Time Geospatial Analytics and Visualization
 
-**Authors:** Prakash Madai, Pradip Ganesh
-
 A distributed **real-time geospatial analytics pipeline** that ingests live public transportation data from the **MBTA (Massachusetts Bay Transportation Authority)** API, processes it using **Apache Kafka and Apache Spark Structured Streaming**, stores it in **MongoDB**, and visualizes vehicle movement on interactive maps in near real time.
 
 ---
