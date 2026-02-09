@@ -180,6 +180,3 @@ This visualization enables real-time monitoring of public transportation movemen
   * Big Data / Streaming Analytics Engineer
 
 ---
-
-
-Just say the word 🚀
