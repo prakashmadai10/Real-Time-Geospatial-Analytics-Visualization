@@ -38,7 +38,7 @@ The following diagram illustrates the complete data flow and system components u
 * **Node.js** serves live data to the frontend
 * **React.js + Mapbox** visualize vehicle movement on an interactive map
 
-![System Architecture Diagram](./a3145de1-d4e5-47c5-8831-dcbb0b32fe71.png)
+![System Architecture Diagram](./arch.png)
 
 ---
 
@@ -133,7 +133,7 @@ The image below shows the **live geospatial visualization** of MBTA vehicles acr
 
 This visualization enables real-time monitoring of public transportation movement and traffic conditions.
 
-![Live Map Visualization](./e46f06bf-0166-498c-8e22-476a97cac52c.png)
+![Live Map Visualization](./output.gif)
 
 ---
 
